@@ -1,0 +1,21 @@
+h1{
+	margin-left: 10px;
+}
+
+p{
+	margin-left: 10px;
+}
+
+table{
+	margin-left: 10px;
+	margin-right: 10px;
+}
+
+.navbar-brand{
+	color: light blue;
+}
+
+.navbar{
+	background: white;
+}
+
