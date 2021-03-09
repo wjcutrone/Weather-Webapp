@@ -12,10 +12,21 @@ table{
 }
 
 .navbar-brand{
-	color: light blue;
+	background-color: #7FFFD4 !important;
 }
 
 .navbar{
 	background: white;
 }
 
+body{
+	background-color: gray !important;
+}
+
+.container{
+	background-color: white;
+}
+
+.dropdown-menu{
+	display: block;
+}
