@@ -29,6 +29,6 @@ body{
 	background-color: white;
 }
 
-.dropdown-menu{
-	display: block;
+.collaspe navbar-collaspe{
+	text-align: right !important;
 }
