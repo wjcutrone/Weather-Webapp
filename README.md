@@ -1,4 +1,4 @@
-# Web-Design-Challenge
+# Weather Webapp
 
 The objective of this repository was to take data from a previous project, and put that data onto a webapp in order to make the visualization of that data appealing to readers. The output data that serves as the basis of this webapp comes from a previous repository of mine where I aimed to analyze how weather changes as one gets closer to the equator. In this previous project, I used the OpenWeatherMap API to assemble a dataset of over 500 random cities across the world. I then used Matplotlib to plot various aspects of the weather in relation to city latitude. The plots I made were Latitude vs. Max Temperature, Latitude vs. Humidity, Latitude vs. Cloudiness, and Latitude vs. Wind Speed. Each of these plots is featured on its own page within the webapp. In addition, I also included a page with the source data that I used to make each of the plots.
 
