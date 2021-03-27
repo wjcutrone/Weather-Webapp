@@ -32,3 +32,8 @@ body{
 .collaspe navbar-collaspe{
 	text-align: right !important;
 }
+
+table, th, td {
+    border: 1px solid black;
+    border-collapse: collapse;
+}
